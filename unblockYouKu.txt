@@ -265,3 +265,4 @@
 123.126.99.39
 220.181.154.137
 ||worldcup.cctv.com
+||miguvideo.com
